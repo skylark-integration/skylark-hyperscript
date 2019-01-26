@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","h"],"mappings":";;;;;;;AAAAA,QACC,MACA,UACC,SAASC,GACV,OAAOA","file":"../main.js","sourcesContent":["define([\r\n\t\"./h\",\r\n\t\"./tags\"\r\n],function(h){\r\n\treturn h;\r\n})"]}

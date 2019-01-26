@@ -1,0 +1,1 @@
+{"version":3,"sources":["hyperscript.js"],"names":["define","skylark","hyperscript"],"mappings":";;;;;;;AAAAA,QACC,yBACC,SAASC,GACV,OAAOA,EAAQC","file":"../hyperscript.js","sourcesContent":["define([\r\n\t\"skylark-langx/skylark\"\r\n],function(skylark){\r\n\treturn skylark.hyperscript = {};\r\n});"]}
